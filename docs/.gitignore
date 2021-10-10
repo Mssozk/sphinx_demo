@@ -1,0 +1,4 @@
+#ignore some files
+.DS_Store
+env/
+docs/source/_templates/
