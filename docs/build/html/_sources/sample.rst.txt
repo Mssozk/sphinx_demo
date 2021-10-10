@@ -12,14 +12,15 @@ demo
 
 
 
-diff
+divergence
 --------------
 
-diff
+divergence
 --------------
 
-change
+divergence
 -----------
 
 
 .. image:: /images/imgpsh_fullsize_anim.jpeg
+.. image:: /images/imgpsh_fullsize_anim (1).jpeg
