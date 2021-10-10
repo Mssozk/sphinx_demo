@@ -12,13 +12,13 @@ demo
 
 
 
-diff
+divergence
 --------------
 
-diff
+divergence
 --------------
 
-change
+divergence
 -----------
 
 
