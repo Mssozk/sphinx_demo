@@ -6,10 +6,10 @@ Demo
 Indices and tables
 ==================
 
-* :ref:`sample`
+* :doc:`demo_jpn<../ja/index>`
 
 .. toctree::
    :hidden:
 
 
-   sample
+   index
